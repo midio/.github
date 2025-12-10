@@ -2,4 +2,4 @@
 
 We are always looking for talented engineers. Especially if you are in to rust, see open positions [here](https://midio.com/jobs.html)
 
-![product picture](https://midio.com/img/product.png "midio")
+![product picture](https://midio.com/img/github-img-1.png "midio")
